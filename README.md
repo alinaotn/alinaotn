@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alinaotn!
 - 👀 I’m interested in Web-Development, Frontend-Technologies like React, Angular...
-- 🌱 I’m currently learning Vue.js
+- 🌱 I’m currently learning NestJS 
 - 📫 How to reach me alinaotten@web.de
 
 <!---

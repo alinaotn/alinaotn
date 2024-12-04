@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alinaotn!
 - 👀 I’m interested in Web-Development, Frontend-Technologies like React, Vue and many more
 - 🧡 I love designing Web-Interfaces and I attach great importance to a user-centered approach
-- 💡 I’m currently learning NestJS, Kotlin (backend technologies in general)
+- 💡 I’m currently learning NestJS, Java - Spring Boot (backend technologies in general)
 - 📫 How to reach me [alinaotten@web.de](mailto:alinaotten@web.de)
 - 💻 Visit my website [alinaotten.de](https://alinaotten.de/) 
 
